@@ -20,7 +20,7 @@
         <h4>Étudiant en licence professionnelle TQL</h4>
         <p>J'ai 21 ans et je suis en licence professionnelle TQL (Test et Qualité Logiciel) dans le département Informatique de l'IUT de Laval. <br>
           Je suis le créateur de ce portfolio ainsi que de Librarity qui est mon univers informatique.</p>
-        <a href="<?php echo BaseURL?>" class="btn">Librarity</a>
+        <a href="" class="btn">Librarity</a>
       </div>
       <ul class="sci">
         <li><a href="https://www.linkedin.com/in/cl%C3%A9ment-cherbonnier/" target="_blank"><img src="./views/Ressources/Images/linkedin.png"></a></li>
